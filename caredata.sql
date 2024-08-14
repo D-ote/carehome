@@ -321,3 +321,18 @@ INSERT INTO incident_mgt (incident_id, resident_id, staff_id, incident_date, inc
 (22, 11, 10, '2024-02-20', 'Fall', 'Resident fell while walking in the hallway', 'Medical check-up and update walking aids'),
 (23, 12, 11, '2024-03-05', 'Aggression', 'Resident displayed aggressive behavior during group session', 'Handle situation and inform supervisor'),
 (24, 12, 12, '2024-03-15', 'Medication error', 'Resident’s medication was administered incorrectly', 'Notify doctor and correct dosage');
+
+
+-- Questions
+-- Identify residents with specific health conditions
+-- Find residents with a monthly allowance above a certain threshold
+-- List all activities for a specific resident
+-- Find the most frequent activities
+-- List all staff members and their roles
+-- Find staff members who have not completed their training
+-- Calculate total hours worked by each staff member within a time frame
+-- Find residents who are on a specific medication
+-- List all incidents that occurred in the first quarter of 2024
+-- Find out which staff member is most frequently involved in incidents
+-- Identify any trends or patterns in the incidents
+-- Find the average monthly allowance for residents with a specific condition
